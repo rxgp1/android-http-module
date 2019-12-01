@@ -1,5 +1,5 @@
 # android-http-module
-안드로이드 HTTP 프로토콜을 쉽게 처리하기 위한 처리 모듈 
+안드로이드 Kotlin HTTP 프로토콜을 쉽게 처리하기 위한 처리 모듈 
 
 
 ## Getting Started 
