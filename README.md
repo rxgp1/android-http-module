@@ -4,7 +4,9 @@
 
 ## Getting Started 
 minSdkVersion 21
+
 targetSdkVersion 29
+
 kotlin 버전 1.3.61 
 
 Android studio import 처리
