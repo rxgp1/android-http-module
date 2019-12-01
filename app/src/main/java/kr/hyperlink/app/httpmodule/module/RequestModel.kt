@@ -39,6 +39,11 @@ class RequestModel {
         this.requestCode = requestCode
     }
 
+    constructor(url: String, method: HttpUtil.Method) {
+        this.url = url
+        this.method = method
+    }
+
     constructor(url: String, method: HttpUtil.Method, requestCode: Int?) {
         this.url = url
         this.method = method
