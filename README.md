@@ -89,3 +89,5 @@ MULTIPART (With AsyncTask)
       async.execute(request)
 
 ~~~
+
+Author : 심현섭, Email: rxgp1@hyper-link.kr
